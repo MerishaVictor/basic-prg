@@ -1,6 +1,6 @@
 public class SquarePattern {
     public static void main(String[] args) {
-        System.out.println("merisha code here");
+        System.out.println("merisha code here is");
         int n=4;
         for(int i=1;i<=n;i++)
         {
